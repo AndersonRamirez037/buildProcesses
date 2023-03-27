@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+gcc -Wall 5-printf.c
+./a.out
+echo $?
